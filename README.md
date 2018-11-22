@@ -1,28 +1,37 @@
+This repository contains materials, registration links of webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
+
+# November 20, 2018
+Apache Spark demo using Azure Databricks, and install Apache Spark as local mode in your windows machine.
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-11Nov-20-ApacheSparkdemo-MCW0010003_01Registration-ForminBody.html
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 # October 3, 2018
 Process data stored in Azure Blob Hadoop cluster using Apache Spark and visualize result in Power BI
-### On demand link
-https://info.microsoft.com/
-### Pre-requsites & to be downloaded:
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-10Oct-03-ProcessdatastoredinAzureBlobHadoop-MCW0009242_01Registration-ForminBody.html
+### Pre-requisites & to be downloaded:
 1. Syncfusion Big Data Cluster Manager to deploy Multi-node cluster in Azure Virtual Machine that is backed by Azure Blob for Data storage. - Requires Syncfusion account to download (First file - 'Big Data Cluster 1419 MB') - https://www.syncfusion.com/support/directtrac/downloads/bigdata/3_2_0_20
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # August 20, 2018
 Python in Big Data and Azure Notebooks
-### On demand link
+### Webinar On demand link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-08Aug-20-DemonstrationofwritingHadoopMapReduce-MCW0008298_02OnDemandRegistration-ForminBody.html
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # July 23, 2018
 Sentiment analysis demonstration using Big Data Apache SPARK and Azure Text analytics API
-### On demand link 
+### Webinar On demand link 
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-07Jul-23-Sentimentanalysisdemonstration-MCW0007805_02OnDemandRegistration-ForminBody.html
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # June 8, 2018
 About BigData. Install Hadoop 3.0 cluster in your Windows machine with data in Azure Blob. Deploy a VM in Azure that is preconfigured with Hadoop and ecosystem.
-### On demand link
+### Webinar On demand link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY18-06Jun-08-AboutBigDataandinstallHadoop-MCW0007235_02OnDemandRegistration-ForminBody.html
 ### Packages details: 
 1. hadoop-3.0.1.tar
