@@ -6,6 +6,7 @@ Apache Spark demo using Azure Databricks, and install Apache Spark as local mode
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-11Nov-20-ApacheSparkdemo-MCW0010003_01Registration-ForminBody.html
 ### Webinar materials
 https://github.com/dinesarun/azurevidyapeeth/tree/master/Nov20-Spark_Deployment_Types
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # October 3, 2018
