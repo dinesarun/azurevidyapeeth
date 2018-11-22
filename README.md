@@ -21,10 +21,10 @@ https://github.com/dinesarun/azurevidyapeeth/tree/master/Oct3-Hive-Blob-Usecase
 
 # August 20, 2018
 Python in Big Data and Azure Notebooks
-### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Aug20-Python_AzureNotebooks
 ### Webinar On demand link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-08Aug-20-DemonstrationofwritingHadoopMapReduce-MCW0008298_02OnDemandRegistration-ForminBody.html
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/Aug20-Python_AzureNotebooks
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
