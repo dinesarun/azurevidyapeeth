@@ -1,0 +1,3 @@
+Pre-requisites & to be downloaded:
+----------------------------------------------
+* Syncfusion Big Data Cluster Manager to deploy Multi-node cluster in Azure Virtual Machine that is backed by Azure Blob for Data storage. - Requires Syncfusion account to download (First file - 'Big Data Cluster 1419 MB') - https://www.syncfusion.com/support/directtrac/downloads/bigdata/3_2_0_20
