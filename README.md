@@ -1,4 +1,40 @@
-This repository contains materials, PPT presentations of webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
+This repository contains materials, PPT presentations of my webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
+
+# March **, 2019
+Azure Cosmos DB - End to End - Part 1
+### Webinar Registration link
+** Coming soon **
+### Webinar materials
+** Coming soon **
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# February 26, 2019
+Azure Data Lake with Apache Hadoop 3.0 to play BigData.
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-02Feb-26-AzureDataLakewithApacheHadoop30toplayBigData-MCW0011619_01Registration-ForminBody.html 
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/Feb26-AzureDataLake 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# January 16, 2019
+BigData - Deploy Spark + Hadoop cluster with Azure Blob.
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-01Jan-16-BigDataDeployandworkwithApacheSpark-MCW0011198_01Registration-ForminBody.html 
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/Jan16_2018_Hadoop%2BSpark%2BAzureBlob_Cluster 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# December 26, 2018
+Database options in Azure and Visualize those data in SaaS BI tools.
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-12Dec-26-DatabaseoptionsinAzure-MCW0010632_02OnDemandRegistration-ForminBody.html
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/Dec26_Database_Options_In_Azure
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # November 20, 2018
 Apache Spark demo using Azure Databricks, and install Apache Spark as local mode in your windows machine.
