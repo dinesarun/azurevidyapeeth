@@ -14,7 +14,7 @@ Azure Data Lake with Apache Hadoop 3.0 to play BigData.
 ### Webinar Registration link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-02Feb-26-AzureDataLakewithApacheHadoop30toplayBigData-MCW0011619_01Registration-ForminBody.html 
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Feb26-AzureDataLake 
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/Feb26-AzureDataLake  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ BigData - Deploy Spark + Hadoop cluster with Azure Blob.
 ### Webinar Registration link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-01Jan-16-BigDataDeployandworkwithApacheSpark-MCW0011198_01Registration-ForminBody.html 
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Jan16_2018_Hadoop%2BSpark%2BAzureBlob_Cluster 
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/Jan16_Hadoop%2BSpark%2BAzureBlob_Cluster  
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Database options in Azure and Visualize those data in SaaS BI tools.
 ### Webinar Registration link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-12Dec-26-DatabaseoptionsinAzure-MCW0010632_02OnDemandRegistration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Dec26_Database_Options_In_Azure
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/Dec26_Database_Options_In_Azure 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Apache Spark demo using Azure Databricks, and install Apache Spark as local mode
 ### Webinar Registration link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-11Nov-20-ApacheSparkdemo-MCW0010003_01Registration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Nov20-Spark_Deployment_Types
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/Nov20-Spark_Deployment_Types 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Process data stored in Azure Blob Hadoop cluster using Apache Spark and visualiz
 ### Webinar Registration link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-10Oct-03-ProcessdatastoredinAzureBlobHadoop-MCW0009242_01Registration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Oct3-Hive-Blob-Usecase
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/Oct3-Hive-Blob-Usecase 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Python in Big Data and Azure Notebooks
 ### Webinar On demand link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-08Aug-20-DemonstrationofwritingHadoopMapReduce-MCW0008298_02OnDemandRegistration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/Aug20-Python_AzureNotebooks
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/Aug20-Python_AzureNotebooks 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Sentiment analysis demonstration using Big Data Apache SPARK and Azure Text anal
 ### Webinar On demand link 
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-07Jul-23-Sentimentanalysisdemonstration-MCW0007805_02OnDemandRegistration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/July23-SentimentAnalysis
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/July23-SentimentAnalysis 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ About BigData. Install Hadoop 3.0 cluster in your Windows machine with data in A
 ### Webinar On demand link
 https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY18-06Jun-08-AboutBigDataandinstallHadoop-MCW0007235_02OnDemandRegistration-ForminBody.html
 ### Webinar materials
-https://github.com/dinesarun/azurevidyapeeth/tree/master/June8-Hadoop3_Install_Blob_Windows 
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2018/June8-Hadoop3_Install_Blob_Windows  
