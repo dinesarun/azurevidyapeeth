@@ -1,11 +1,11 @@
 This repository contains materials, PPT presentations of my webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
 
-# March **, 2019
+# March 21, 2019
 Azure Cosmos DB - End to End - Part 1
 ### Webinar Registration link
-** Coming soon **
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-03Mar-21-AzureCosmosDB-MCW0012228_01Registration-ForminBody.html
 ### Webinar materials
-** Coming soon **
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/Mar21_AzureCosmosDB-Part1
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
