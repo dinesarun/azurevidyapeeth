@@ -1,5 +1,12 @@
 This repository contains materials, PPT presentations of my webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
 
+# May 7, 2019
+Azure Cosmos DB - End to End - Part 2
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-05May-07-WorkwithNoSQLdata-MCW0013117_LP01Registration-ForminBody.html
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/May7_AzureCosmosDB-Part2
+
 # March 21, 2019
 Azure Cosmos DB - End to End - Part 1
 ### Webinar Registration link
