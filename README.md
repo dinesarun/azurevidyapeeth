@@ -1,9 +1,16 @@
 This repository contains materials, PPT presentations of my webinars conducted in Microsoft Azure Vidyapeeth - https://www.microsoftazurevidyapeeth.com/
 
+# June 7, 2019
+What’s New for Visual Studio 2019 Integrations with Azure Boards
+### Webinar Registration link
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-06Jun-07-WhatNewforVisualStudio-SRDEM2150_LP01Registration-ForminBody.html
+### Webinar materials
+https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/May7_AzureCosmosDB-Part2
+
 # May 7, 2019
 Azure Cosmos DB - End to End - Part 2
 ### Webinar Registration link
-https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-05May-07-WorkwithNoSQLdata-MCW0013117_LP01Registration-ForminBody.html
+https://info.microsoft.com/IN-AZUREPLAT-WBNR-FY19-05May-07-WorkwithNoSQLdata-MCW0013117_LP02OnDemandRegistration-ForminBody.html
 ### Webinar materials
 https://github.com/dinesarun/azurevidyapeeth/tree/master/2019/May7_AzureCosmosDB-Part2
 
