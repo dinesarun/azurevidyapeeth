@@ -1,0 +1,17 @@
+IMPORTANT
+- https://docs.microsoft.com/en-us/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019
+- https://azuredevopsdemogenerator.azurewebsites.net/
+
+https://devblogs.microsoft.com/visualstudio/visual-studio-2019-version-16-1-generally-available-and-16-2-preview-1/
+
+- https://channel9.msdn.com/Shows/DevOps-Lab/Whats-new-for-Visual-Studio-2019-integrations-with-Azure-Boards
+- https://www.youtube.com/watch?v=6_nJ_X-JVF4
+
+
+https://docs.microsoft.com/en-us/azure/devops/report/powerbi/what-are-analytics-views?view=azure-devops
+
+- https://docs.microsoft.com/en-us/azure/devops/boards/github/?view=azure-devops
+- https://lab.github.com/
+- https://github.com/github/VisualStudio/tree/master/docs
+
+https://docs.microsoft.com/en-us/azure/devops/artifacts/overview?view=azure-devops
